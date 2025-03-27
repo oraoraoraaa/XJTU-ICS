@@ -1,0 +1,9 @@
+
+phase2.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	48 c7 c7 41 4b 7d 34 	mov    $0x347d4b41,%rdi
+   7:	c3                   	ret    
